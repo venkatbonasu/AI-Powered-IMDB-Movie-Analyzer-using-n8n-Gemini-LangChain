@@ -29,5 +29,3 @@ This project demonstrates an AI-powered agent built in [n8n](https://n8n.io) tha
 
 ---
 
-## 📂 Folder Structure
-
